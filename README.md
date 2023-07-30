@@ -1,2 +1,3 @@
 # serviceC
-Setting webhook
+
+На этом проекте настроим webhook от Github к Jenkins.
